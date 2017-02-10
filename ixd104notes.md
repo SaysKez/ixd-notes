@@ -81,7 +81,7 @@ Learn how to draw/design by replicating so you are not distracted by creation pr
 
 ####Research Juice
 
--   Paul Ellyman
+-   Paul Elliman
 -   Olly Moss
 -   Michael Rose
 -   Rogie King
@@ -155,7 +155,7 @@ Jon Hicks Icon Handbook
 -   Sebastiaan de With - Founder of Pictogram. Designed icons for Microsoft Office. Created his own icons for adobe.
 -   Justas Galaburda - Iconutopia.com. 
 -   Matt Yow
--   Adam Witcroft - City icons
+-   Adam Whitcroft - City icons
 -   Behance and Dribbble. Lots of inspiration
 
 
@@ -165,11 +165,12 @@ Jon Hicks Icon Handbook
 -   Create your own set of travel icons (car, train, suitcase, boat, compass, etc) depending on your app.
 
 -   City Illustration (weeks 3+4). Don't worry about being perfect, focus on figuring out how it is made.
+-   Illustration style needs to match icons for app
 
--   Travel app (week 5+6)
+-   Travel app (week 5+6) (3 screens minimum. Home, pick a City, Detail of City)
 
 
 ####Tasks:
 -   Mind map travel app. Start with word Travel or City
 -   **Figure out what the focus of the app will be**
--   Illustration style needs to match icons for app (3 screens minimum. Home, pick a City, Detail of City)
+-   Design original set of travel icons for your app
